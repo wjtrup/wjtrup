@@ -1,4 +1,4 @@
-Hi 👋, I'm Tim
+Hi 👋, I'm Wjtrup
 Full Stack | Backend | Frontend | Blockchain | NFT | AI
 
 🔭 I’m currently working on Alibaba
@@ -7,7 +7,7 @@ Full Stack | Backend | Frontend | Blockchain | NFT | AI
 
 💬 Ask me about React, Next.js, JavaScript, Python, Django, NodeJS, MySQL, Linux, AWS, e-commerce
 
-📫 How to reach me lovezww2011@gmail.com
+📫 How to reach me wjtrup@gmail.com
 
 ⚡ Fun fact I am a coder and I drink tea ;-)
 
